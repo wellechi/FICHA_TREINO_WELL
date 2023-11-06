@@ -27,9 +27,11 @@ button {
     margin: 10px;
     width: 175px;
     height: 50px;
-    background-color: rgb(150, 250, 0);
+    background-color: #0096FA;
     cursor: pointer;
     border: 0;
+    font-weight: bolder;
+    color: white;
 }
 
 a {
